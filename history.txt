@@ -1,0 +1,73 @@
+  358  https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  359  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  360  ls
+  361  touch php_france_2019.csv
+  362  ls
+  363  wc php_france_2019.csv
+  364  grep php, France, 2019" > wilders.csv
+  365  grep php, France, 2019" < wilders.csv
+  366  grep "php, France, 2019" < wilders.csv
+  367  grep "php, France, 2019" < wilders.csv > php_france_2019.csv 
+  368  grep "PHP, France, 2019" < wilders.csv > php_france_2019.csv 
+  369  grep "France, 2019, PHP" <wilders.csv > php_france_2019.csv
+  370  grep "France, 2019, PHP" <wilders.csv > wc php_france_2019.csv
+  371  grep "France, 2019, PHP" <wilders.csv > /wc php_france_2019.csv
+  372  grep "France, 2019, PHP" <wilders.csv > |wc php_france_2019.csv
+  373  grep "France, 2019, PHP" <wilders.csv > | wc php_france_2019.csv
+  374  grep "France, 2019, PHP" <wilders.csv > | wc -l php_france_2019.csv
+  375  grep "France, 2019, PHP" <wilders.csv  wc -l> php_france_2019.csv
+  376  grep "France, 2019, PHP" <wilders.csv  |wc -l> php_france_2019.csv
+  377  cat php_france_2019.csv
+  378  grep "France,2019,PHP" <wilder.csv >  php_france_2019.csv
+  379  grep "France,2019,PHP" <wilders.csv >  php_france_2019.csv
+  380  cat php_france_2019.csv 
+  381  grep "France,2019,PHP" <wilders.csv cat>  php_france_2019.csv
+  382  grep "France,2019,PHP" <wilders.csv cat >  php_france_2019.csv
+  383  grep "France,2019,PHP" wilders.csv  >  php_france_2019.csv
+  384  cat php_france_2019.csv 
+  385  touch javascript_biarritz_toulouse.csv
+  386  ls
+  387  grep "javascript, wilders" > javascript_biarritz_toulouse.csv 
+  388  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  389  touch php_france_2019.csv
+  390  ls
+  391  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  392  cat php_france_2019.csv
+  393  touch javascript_biarritz_toulouse.csv
+  394  ls
+  395  grep "Biarritz,javascript" wilders.csv > javascript_biarritz.csv
+  396  cat javascript_biarritz.csv
+  397  grep "Biarritz,JavaScript" wilders.csv > javascript_biarritz.csv
+  398  cat javascript_biarritz.csv
+  399  grep "Biarritz,JavaScript" wilders.csv
+  400  grep "Biarritz,JavaScript"< wilders.csv
+  401  grep "JavaScript"< wilders.csv
+  402  grep "JavaScript" wilders.csv
+  403  grep "JavaScript" wilders.csv > javascript_biarritz.csv
+  404  cat javascript_biarritz.csv
+  405  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  406  touch php_france_2019.csv
+  407  touch javascript_biarritz_toulouse.csv 
+  408  ls
+  409  grep "France, 2019, PHP" wilders.csv > php_france_2019.csv
+  410  cat php_france_2019.csv
+  411  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  412* cat php_france
+  413  grep javascript wilders.csv > javascript.csv
+  414  cat javascript.csv
+  415  grep JavaScript wilders.csv > javascript.csv
+  416  cat javascript.csv
+  417  grep Biarritz JavaScript wilders.csv > javascript_biarritz.csv
+  418  grep "Biarritz,JavaScript" wilders.csv > javascript_biarritz.csv
+  419  cat javascript_biarritz.csv
+  420  grep Biarritz javascript.csv > javascript_biarritz.csv
+  421  cat javascript_biarritz.csv
+  422  grep Toulouse javascript.csv > javascript_toulouse.csv
+  423  cat javascript_toulouse.csv
+  424  cat javascript.csv cat javascript_biarritz.csv javascript_toulouse.csv> javascript_biarritz_toulouse.csv
+  425  cat javascript.csv javascript_biarritz.csv javascript_toulouse.csv> javascript_biarritz_toulouse.csv
+  426  ls
+  427  cat javascript_biarritz.csv javascript_toulouse.csv> javascript_biarritz_toulouse.csv
+  428  history
+  429  tail -n 73> history.txt
+  430  history | tail -n 73 > history.txt
